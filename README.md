@@ -1,4 +1,4 @@
-## Hi, I'm Ben! 👋
+## Hey, I'm Ben! 👋
 
 Does this sounds familiar: Artificial Intelligence is going to change the world. But AI is only as effective as the data behind it. That's where I come in. I excel at transforming disorganized data into insightful charts, dashboards, and analytics that empower better decision-making.
 
