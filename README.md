@@ -1,11 +1,7 @@
 ## Hey, I'm Ben! 👋
 
-Does this sounds familiar: Artificial Intelligence is going to change the world. But AI is only as effective as the data behind it. That's where I come in. I excel at transforming disorganized data into insightful charts, dashboards, and analytics that empower better decision-making.
+Data Scientist with 3+ years of experience, currently pursuing my MS in Machine Learning at Georgia Tech (Dec 2025).
 
-I am an experienced data professional with two years of experience in data science. I’m currently pursuing my Master of Science in Analytics at Georgia Tech, with an expected graduation date of December 2025. I’ve been involved in every stage of the data lifecycle: from problem definition and data processing to analysis, modeling, deployment, and strategic application.
+Columbia Engineering alum, passionate about applying AI to solve real-world problems through intelligent systems and practical deployment.
 
-As a Columbia University Engineering graduate, I am passionate about engineering innovative solutions to complex problems. I am eager to take on roles that allow me to apply data science and machine learning to drive impactful results.
-
-In my free time, I enjoy weightlifting, traveling, hiking, and boxing. I’m also a huge foodie, and I love trying new things!
-
-My specialties include data wrangling, data transformation, data visualization, dashboard design, SQL for database querying, data warehousing, Python, R, and Java programming, descriptive and inferential statistics, and supervised and unsupervised learning.
+Skills: Python, SQL, GCP, LangChain, vector DB (FAISS, Chroma), RAG pipelines, prompt engineering, fine-tuning (LoRA, PEFT), data visualization, machine learning, statistics, and end-to-end product development (React, FastAPI).
