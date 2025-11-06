@@ -1,6 +1,6 @@
 ## Hey, I'm Ben! 👋
 
-Data Scientist with 3+ years of experience, currently pursuing my MS in Machine Learning at Georgia Tech (Dec 2025).
+Data Scientist with 3+ years of experience, currently pursuing my MS in Data Science at Georgia Tech (Dec 2025).
 
 Columbia Engineering alum, passionate about applying AI to solve real-world problems through intelligent systems and practical deployment.
 
